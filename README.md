@@ -1,7 +1,7 @@
-# About
+## About
 BookStacker is a [BookStack](https://github.com/BookStackApp/BookStack) API wrapper for Java.
 
-# How to Use
+## How to Use
 To use the API, just create a new `BookStack` instance.
 
 ```java
@@ -25,10 +25,10 @@ public static void main(String[] args) {
 > **IMPORTANT**: You need an API token and secret to use the BookStack API.<br>
 They can be generated in the user settings of your wiki.
 
-# Dependencies
+## Dependencies
 - [Gson](https://github.com/google/gson)
 
-# License and Copyright
+## License and Copyright
 BookStacker Copyright © 2021 Keksuccino.<br>
 BookStacker is licensed under MIT.<br>
 See [LICENSE](https://github.com/Keksuccino/BookStacker/blob/main/LICENSE) for more informations.
