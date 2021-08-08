@@ -4,7 +4,7 @@ BookStacker is a Java wrapper for the [BookStack](https://github.com/BookStackAp
 # How to Use
 To use the API, just create a new `BookStack` instance.
 
-```
+```java
 import de.keksuccino.bookstacker.BookStack;
 
 public static BookStack bookstack;
