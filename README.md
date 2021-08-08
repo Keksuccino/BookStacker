@@ -29,5 +29,5 @@ They can be generated in the user settings of your wiki.
 - [Gson](https://github.com/google/gson)
 
 # License
-BookStacker is licensed under MIT.
+BookStacker is licensed under MIT.<br>
 See [LICENSE](https://github.com/Keksuccino/BookStacker/blob/main/LICENSE) for more informations.
