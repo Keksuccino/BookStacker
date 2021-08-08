@@ -23,3 +23,6 @@ public static void main(String[] args) {
 ```
 
 > **IMPORTANT**: You need an API token and secret to use the BookStack API. They can be generated in the user settings of your wiki.
+
+# Dependencies
+- [Gson](https://github.com/google/gson)
