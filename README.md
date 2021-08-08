@@ -27,3 +27,7 @@ They can be generated in the user settings of your wiki.
 
 # Dependencies
 - [Gson](https://github.com/google/gson)
+
+# License
+BookStacker is licensed under MIT.
+See [LICENSE](https://github.com/Keksuccino/BookStacker/blob/main/LICENSE) for more informations.
