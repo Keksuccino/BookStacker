@@ -1,5 +1,5 @@
 # About
-BookStacker is a Java wrapper for the [BookStack](https://github.com/BookStackApp/BookStack) API.
+BookStacker is a [BookStack](https://github.com/BookStackApp/BookStack) API wrapper for Java.
 
 # How to Use
 To use the API, just create a new `BookStack` instance.
